@@ -1,0 +1,1 @@
+CREATE table orders( order_id int primary key ,customer_id int ,order_date date ,amount int ,status text);
